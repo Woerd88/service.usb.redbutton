@@ -1,0 +1,73 @@
+# Kodi Media Center language file
+# Addon Name: Red Button
+# Addon id: service.usb.redbutton
+# Addon Provider: Woerd88
+msgid ""
+msgstr ""
+"Project-Id-Version: Kodi Addons\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "#30001"
+msgid "Cover Open"
+msgstr "Cover Open"
+
+msgctxt "#30002"
+msgid "Cover Closed"
+msgstr "Cover Closed"
+
+msgctxt "#30003"
+msgid "Button Down"
+msgstr "Button Down"
+
+msgctxt "#30004"
+msgid "Button Up"
+msgstr "Button Up"
+
+msgctxt "#30005"
+msgid "Device connected"
+msgstr "Device connected"
+
+msgctxt "#30006"
+msgid "Device disconnected"
+msgstr "Device disconnected"
+
+msgctxt "#30007"
+msgid "Service stopped"
+msgstr "Service stopped"
+
+msgctxt "#30008"
+msgid "Service started"
+msgstr "Service started"
+
+msgctxt "#30009"
+msgid "No backend installed"
+msgstr "Error: No backend installed"
+
+msgctxt "#30100"
+msgid "Notifications"
+msgstr "Notifications"
+
+msgctxt "#30101"
+msgid "Notify on start stop events"
+msgstr "Notify on start/stop service"
+
+msgctxt "#30102"
+msgid "Notify on device events"
+msgstr "Notify on device events"
+
+msgctxt "#30103"
+msgid "Notify on button events"
+msgstr "Notification on button events"
+
+msgctxt "#30104"
+msgid "Notify on cover events"
+msgstr "Notification on cover events"
